@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm Gaisar, a front-end software engineer with 5 years of experience. My expertise includes React, TypeScript, MobX, and NestJS. Additionally, I have a good knowledge of Vue, React Native and Redux. I utilize Jest and Storybook for testing. I have experience launching projects on various technologies. Currently, I'm responsible for creating a library of React components.
+I am a responsible, open-minded, and honest individual who works well in a team. I would be pleased to offer my skills and experience to your projects. Thank you!
+
+Link to LinkedIn: [https://github.com/gaisdav](https://www.linkedin.com/in/gaisar-davletkildin/?locale=en_US)
+
+
 <!--
 **gaisdav/gaisdav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
