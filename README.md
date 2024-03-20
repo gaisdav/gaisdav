@@ -4,6 +4,7 @@ I'm Gaisar, a front-end software engineer with 6 years of experience. My experti
 I am a responsible, open-minded, and honest individual who works well in a team. I would be pleased to offer my skills and experience to your projects. Thank you!
 
 [LinkedIn](https://www.linkedin.com/in/gaisdav/?locale=en_US)
+
 [CV](https://drive.google.com/file/d/1VHWHq3b5A4DhgdHxjTiZtdqEzN5YLz_z/view?usp=sharing)
 
 
