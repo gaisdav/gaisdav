@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-I'm Gaisar, a front-end software engineer with 7 years of experience. My expertise includes React, TypeScript, MobX, and NestJS. Additionally, I have a good knowledge of Vue, React Native and Redux. I utilize Jest and Storybook for testing. I have experience launching projects on various technologies. Currently, I'm responsible for creating a library of React components.
-I am a responsible, open-minded, and honest individual who works well in a team. I would be pleased to offer my skills and experience to your projects. Thank you!
+I'm Gaisar, a front-end/fullstack software engineer with over than 7 years of experience. My expertise includes React, TypeScript, MobX, and NodeJS. Additionally, I have a good knowledge of Vue, Redux, React Native and PWA. 
+In my testing practices, I rely on industry-standard tools like Jest and Storybook to ensure the reliability and quality of my codebase. Throughout my career, I've successfully launched numerous projects spanning various technologies, demonstrating my adaptability and versatility in delivering high-quality solutions.
+Currently, I'm immersed in the development of a CRM system tailored specifically for company managers. This responsibility has honed my ability to understand complex business needs and translate them into robust technical solutions.
+As an individual, I pride myself on being responsible, open-minded, and honest. I would be pleased to offer my skills and experience to your projects. Thank you!
 
 [LinkedIn](https://www.linkedin.com/in/gaisdav/?locale=en_US)
 
