@@ -5,7 +5,7 @@ I am a responsible, open-minded, and honest individual who works well in a team.
 
 [LinkedIn](https://www.linkedin.com/in/gaisdav/?locale=en_US)
 
-[CV](https://drive.google.com/file/d/1VHWHq3b5A4DhgdHxjTiZtdqEzN5YLz_z/view?usp=sharing)
+[CV](https://drive.google.com/file/d/11KKnh488Zi0ZYSktx-sMDmUe3mawN1XY/view?usp=sharing)
 
 
 <!--
